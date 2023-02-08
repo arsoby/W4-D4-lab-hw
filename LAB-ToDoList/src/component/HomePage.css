@@ -1,0 +1,15 @@
+.Lists{
+    padding-top: 10px;
+    display: flex ;
+    justify-content: space-around;
+
+}
+.In-Progress{
+    background-color: gold;
+}
+.To-Do{
+    background-color: darkcyan;
+}
+.Done{
+    background-color: darkgreen;
+}
